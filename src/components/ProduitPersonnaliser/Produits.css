@@ -1,0 +1,27 @@
+.img-produit{
+    width: 80px;
+    height: 90px;
+   
+}
+.produit-container{
+    display: flex;
+    align-items: center;
+}
+.produits-container{
+    height: 30%;
+}
+.input-size{
+    width: 30px;
+    height: 30px;
+    text-align: center;
+
+}
+.bloc-taille{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 5px;
+}
+.taille-container{
+    display: flex;
+}

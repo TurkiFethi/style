@@ -1,0 +1,17 @@
+.top-container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    align-self: center;
+    
+}
+.ahref{
+    text-decoration: none;
+}
+
+.image-insc{
+    width: 20px;
+}
+.parag{
+    font-size: 10px;
+}

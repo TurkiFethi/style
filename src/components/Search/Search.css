@@ -1,0 +1,14 @@
+.search-top{
+    display: flex;
+    align-items: center;
+  }
+  .img-search{
+    width: 30px;
+
+  }
+  .input-search{
+    border-radius: 5px;
+    width: 500px;
+    height: 30px;
+  text-align: center;
+  }

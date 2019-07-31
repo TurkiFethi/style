@@ -1,0 +1,30 @@
+.information-footer{
+    display: flex;
+    flex-direction: column;
+}
+.img-instagram{
+    width: 27px;
+}
+.img-fb{
+    width: 26px;
+}
+.img-twitter{
+    width: 30px;
+}
+.footer-container{
+    background:#ADC6CD;
+    display: flex;
+    justify-content: space-around;
+    height: 300px;
+    padding: 60px;
+}
+.ahref-footer{
+    text-decoration: none;
+}
+.follow-us-container{
+    display: flex;
+    justify-content: space-between;
+}
+.width-follow{
+    width: 100px;
+}

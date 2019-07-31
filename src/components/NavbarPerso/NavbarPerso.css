@@ -1,0 +1,38 @@
+.navbar-container{
+    background-color: #EFEFEF;
+    width: 100%;
+    height: 50px;
+    display: flex;
+    justify-content: space-around;
+    align-items: flex-end;
+    padding-top: 30px;
+    margin-top: 59px;
+    text-align: center;
+
+}
+.img-action{
+    width: 20px;
+
+}
+.popup{
+    display: flex;
+    align-self: flex-start;
+}
+.link-popup{
+    display: flex;
+    flex-direction: column;
+}
+.item-popup{
+    text-decoration: none;
+}
+.btn{
+    padding-bottom: 10px;
+    
+}
+.bottom{
+    width: 238px;
+    height: 40px;
+    border-radius: 8px;
+    color: white;
+    background: #112349;
+}

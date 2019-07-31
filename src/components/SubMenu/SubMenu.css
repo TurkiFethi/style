@@ -1,0 +1,24 @@
+.makeStyles-sarra-56 .MuiTabs-flexContainer {
+    display: flex !important;
+    flex-direction: column !important;
+}
+.makeStyles-sarra-56 .PrivateTabIndicator-colorSecondary-28 {
+    background-color: transparent;
+}
+
+.type-category {
+    display: flex;
+    justify-content: space-between;
+    /* text-align: center; */
+}
+.type{
+    font-size: 30px;
+}
+.vetements a{
+    display: flex;
+    flex-direction: column;
+    text-decoration: none;
+}
+.test{
+    width: 100%
+}
